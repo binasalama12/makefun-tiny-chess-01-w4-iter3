@@ -31,3 +31,8 @@ standard library only, playing every game the environment serves at
 
 Offline verification: trial-0 against the kit house gauntlet scores
 8/8, all eight games won by checkmate, identical across repeated runs.
+
+Iteration 3 of this entry: the book lines were re-hunted for the
+fastest forced mates and the chassis golfed down until the packed
+engine met the 4,096-byte cap with the book inside — the earlier
+iteration's package scored the same 8/8 but was 301 bytes over.
